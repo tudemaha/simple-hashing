@@ -20,8 +20,8 @@ int main() {
     start:
     system("cls");
     printf(
-        "===== OPEN HASHING HASH TABLE =====\n"
-        "===================================\n\n"
+        "===== OPEN ADDRESSING HASH TABLE =====\n"
+        "======================================\n\n"
     );
 
     printf("Menu:\n1. Input Data\n2. View Data\n3. Cari Data\n4. Keluar\n");
